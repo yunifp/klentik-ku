@@ -6,7 +6,7 @@
   --header-height: 3rem;
 
   /*========== Colors ==========*/
-  --first-color: #9c6d06;
+  --first-color: #2b60c4;
   --first-color-alt: #864304;
   --title-color: #393939;
   --text-color: #707070;
@@ -235,7 +235,7 @@ img {
   justify-content: center;
   align-items: center;
   padding: .3rem;
-  background: rgba(156, 86, 6, 0.5);
+  background: rgb(16, 82, 180);
   border-radius: .4rem;
   z-index: var(--z-tooltip);
   transition: .4s;
@@ -243,7 +243,7 @@ img {
 }
 
 .scrolltop:hover {
-  background-color: var(--first-color-alt);
+  background-color: rgb(7, 46, 105);
 }
 
 .scrolltop__icon {
