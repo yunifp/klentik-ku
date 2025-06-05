@@ -187,8 +187,12 @@ img {
   margin-bottom: var(--mb-2);
 }
 
+.nav__logo{
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #0d51a8FF;
+}
 .nav__link,
-.nav__logo,
 .nav__toggle {
   color: var(--text-color);
   font-weight: var(--font-medium);
